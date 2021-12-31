@@ -1,0 +1,12 @@
+.calculator{
+    display: flex;
+    flex-direction: column;
+    margin:2em ;
+}
+.group-btn{
+    width: 400px;    
+}
+
+.zero{
+    width: 200px;
+}
